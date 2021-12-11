@@ -1,4 +1,4 @@
-"""This script solves both parts of 2021, Day 9"""
+"""This script solves both parts of 2021, Day 10"""
 
 if __name__ == "__main__":
     score = 0
